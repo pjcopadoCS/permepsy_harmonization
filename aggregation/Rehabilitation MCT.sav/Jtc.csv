@@ -1,0 +1,3 @@
+Esp,Jumping85_15,Jumping60_40,Jumping_afect
+PRE,Jumping85_15,Jumping60_40,Jumping_afect
+POST,Jumping85_15_postA;Jumping85_15_postB,Jumping60_40_postA;Jumping60_40_postB,Jumping_afect_postA;Jumping_afect_postB

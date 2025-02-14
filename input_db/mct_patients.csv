@@ -1,0 +1,23 @@
+DATABASES;COLUMN;CONDITION
+Balzan et al 2019.sav;Group;df['Group']==1.0
+Database PAoS_updated.sav;group;df['group']==1.0
+DataBase_UV.xlsx;;
+de Pinho et al 2021 MCT_COMPLETED PARTICIPANTS_2.sav;Grupo;df['Grupo']==1.0
+Favrod et al 2014.sav;MCTrandom;(df['MCTrandom']==1.0)
+Fuji et al 2021_transf_(Kobayashi).xlsx;group;(df['group']=='A')
+Group MCT.sav;Grupo;df['Grupo']==2.0
+Individual MCT+.sav;Grupo;df['Grupo']==2.0
+Ishikawa et al 2020_without_password_(Tanoue et al. 2021).xlsx;Group (1=MCT, 2=Control);(df['Group (1=MCT, 2=Control)']==1)
+Kuokkanen et al 2014.sav;;
+Leanza et al 2020 (Andreou).sav;Gruppe;df['Gruppe']==1.0
+Lopez-Morinigo et al 2023.sav;INTERVENTIÓN;df['INTERVENCIÓN']==1.0
+Rehabilitation MCT.sav;Grupo;(df['Grupo']==2.0) | (df['Grupo']==2.0)
+Simon Exposito et al 2019.sav;Experimental;df['Grupo']==1.0
+So et al 2015.sav;LessonCompliance;df['LessonCompliance']!=''
+Swanson et al_tranp_ 2017.xlsx;;
+Tanoue et al 2021.xlsx;Intervention;df['Intervention']=='Group MCT (10 module)'
+UKE MCT BRAT Database 3.sav;random;(df['random']==1.0)
+UKE MCT CogPack Database 2 .sav;sample;(df['sample']==1)
+UKE MCT+Psychol Database 1.sav;mkt_cp;(df['mkt_cp']==1.0)
+Ussorio et al 2013-2016 (Roncone).sav;DUP;df['DUP']!=''
+Yildiz et al 2018.sav;group;df['group']==2.0
